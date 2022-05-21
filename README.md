@@ -1,2 +1,3 @@
-# EMX-WIKI
-This will show all of the wiki pages for EMX
+# EMX Wiki
+This will have all of the documentation on EMX
+[Click here to view](https://github.com/EMX-WIKI/wiki)
